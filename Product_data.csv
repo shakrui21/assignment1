@@ -1,0 +1,101 @@
+Product_number,Product_name,Colour,Brand,Depth,Width,Height,Weight,Price,Warranty_period,Category,Description,Availability,Stock
+1,Nivea Moisturizing Cream,Black,Nivea,27.09,32.3,14.35,4.3,70.14,2,Cosmetic,Essential for modern lifestyle,1,386
+2,Steelcase Bookshelf,Gray,Steelcase,43.26,14.76,6.22,1.32,685.2,4,Furniture,Compact and lightweight design,1,181
+3,Macmillan Cookbook,White,Macmillan,47.42,4.35,11.73,3.08,50.65,5,Books,Stylish and affordable,1,445
+4,IKEA Dining Table,Pink,IKEA,46.26,23.67,34.74,0.4,227.9,2,Furniture,Adjustable settings for personalized use,1,491
+5,Continental Car Vacuum,Green,Continental,10.56,16.12,47.59,1.42,773.1,5,Automotive,Ideal for home and office use,1,307
+6,Panasonic Tablet,Black,Panasonic,49.15,48.06,18.47,0.95,71.09,3,Electronics,Advanced technology integration,1,52
+7,Maybelline Facial Cleanser,Pink,Maybelline,22.42,10.83,33.21,1.41,106.12,1,Cosmetic,Stylish and affordable,1,132
+8,HP Laptop,Red,HP,5.2,5.96,7.15,3.17,845.13,5,Electronics,Stylish and affordable,1,48
+9,The North Face Camping Stove,Black,The North Face,33.39,42.84,23.17,1.67,413.88,5,Outdoor,Best in class performance,1,496
+10,Continental Car Battery,Blue,Continental,25.8,39.97,14.71,1.62,537.28,3,Automotive,High quality product for daily use,1,37
+11,Apple Bluetooth Speaker,Silver,Apple,2.87,14.83,14.59,1.51,193.46,4,Electronics,Perfect for outdoor activities,1,25
+12,KitchenAid Microwave Oven,Blue,KitchenAid,6.25,20.87,9.99,2.83,458.26,3,Appliances,Eco-friendly and durable,1,229
+13,REI Hiking Backpack,Pink,REI,26.64,17.35,29.85,2.02,254.53,4,Outdoor,Long-lasting battery life,1,10
+14,Columbia Hiking Backpack,White,Columbia,25.19,48.06,40.12,1.91,352.78,4,Outdoor,Ideal for home and office use,1,189
+15,Samsung Tablet,White,Samsung,31.12,26.0,12.34,0.25,757.48,4,Electronics,Water-resistant and reliable,1,185
+16,Apple Headphones,Silver,Apple,32.2,48.32,47.43,1.81,397.48,5,Electronics,Stylish and affordable,1,243
+17,Lego Building Blocks,Red,Lego,7.01,46.38,41.57,2.91,531.62,2,Toys,Provides excellent comfort and support,1,115
+18,Reebok Dumbbells,Red,Reebok,12.62,34.95,21.17,2.16,71.27,3,Sports,High quality product for daily use,1,440
+19,Simon & Schuster Children's Book,Gray,Simon & Schuster,23.32,10.6,4.36,1.54,58.68,1,Books,Advanced technology integration,1,496
+20,Ashley Furniture Sofa,Silver,Ashley Furniture,19.24,17.63,27.68,3.9,324.89,1,Furniture,Includes warranty and customer support,1,460
+21,Black Diamond Camping Stove,White,Black Diamond,12.89,49.06,3.58,1.96,353.84,3,Outdoor,Best in class performance,1,186
+22,Michelin Engine Oil,Pink,Michelin,21.1,44.35,40.14,2.55,518.57,4,Automotive,Designed for maximum comfort,1,397
+23,HarperCollins Science Fiction,White,HarperCollins,31.56,2.11,0.76,2.75,30.07,1,Books,Designed for maximum comfort,1,149
+24,Kroger Free-range Eggs,Silver,Kroger,32.65,10.44,49.05,0.74,22.36,1,Grocery,Water-resistant and reliable,1,23
+25,Goodyear Car Vacuum,Red,Goodyear,42.73,36.45,37.37,1.42,704.46,4,Automotive,Advanced technology integration,1,79
+26,Bosch Microwave Oven,Black,Bosch,42.81,42.8,10.77,2.93,442.78,1,Appliances,Provides excellent comfort and support,1,39
+27,Sony Headphones,Green,Sony,35.17,12.48,32.64,4.01,262.37,1,Electronics,Perfect for outdoor activities,1,334
+28,Adidas Dumbbells,Black,Adidas,9.4,14.58,7.13,3.69,70.44,2,Sports,Designed for maximum comfort,1,219
+29,Safeway Banana,Red,Safeway,15.06,27.5,18.88,4.0,2.06,5,Grocery,Includes warranty and customer support,1,215
+30,Classic Round Tomato,Red,Sainsbury,3.09,4.09,13.99,2.09,20.00,1,Grocery,Full of vitamin D,1,100
+31,Panasonic Smartwatch,Gray,Panasonic,36.94,1.54,30.83,0.6,268.05,5,Electronics,Provides excellent comfort and support,1,242
+32,Fisher-Price Building Blocks,Silver,Fisher-Price,2.28,34.2,30.09,3.37,81.64,5,Toys,Designed for maximum comfort,1,395
+33,Hasbro Dollhouse,Pink,Hasbro,14.42,15.2,21.43,3.42,284.9,3,Toys,Stylish and affordable,1,27
+34,The North Face Tent,Gray,The North Face,41.88,20.4,28.92,1.17,70.97,3,Outdoor,Perfect gift for friends and family,1,483
+35,Under Armour Treadmill,Green,Under Armour,42.12,31.45,0.81,3.21,128.99,5,Sports,Perfect for outdoor activities,1,85
+36,Publix Banana,Blue,Publix,37.73,12.02,13.02,1.56,3.83,1,Grocery,Ideal for home and office use,1,70
+37,Penguin Random House Science Fiction,Silver,Penguin Random House,35.58,32.83,30.98,3.34,24.87,4,Books,Perfect gift for friends and family,1,135
+38,Nike Running Shoes,Green,Nike,13.94,12.39,25.4,2.77,164.91,2,Sports,Adjustable settings for personalized use,1,63
+39,Adidas Blue Samba,Blue,Adidas,23.98,11.00,15.99,3.00,89.02,3,Sports,Nice looking shoes,1,89
+40,Nike Dumbbells,Pink,Nike,3.97,19.69,23.24,2.42,80.42,3,Sports,Eco-friendly and durable,1,92
+41,Continental Engine Oil,Gray,Continental,32.16,9.43,4.08,4.77,691.69,1,Automotive,Long-lasting battery life,1,390
+42,Nerf Building Blocks,Blue,Nerf,41.14,29.12,0.99,2.3,586.21,2,Toys,Long-lasting battery life,1,189
+43,Nerf Action Figure,Silver,Nerf,7.09,45.72,40.33,4.99,608.89,1,Toys,Advanced technology integration,1,485
+44,HP Tablet,Red,HP,2.54,14.95,15.67,1.34,161.66,2,Electronics,Made from premium materials,1,429
+45,Whole Foods Almond Milk,Black,Whole Foods,8.27,20.75,3.54,4.74,127.64,3,Grocery,Provides excellent comfort and support,1,120
+46,Garlic,White,Sainsbury,3.44,2.34,4.23,2.98,10.20,1,Grocery,Garlic bulbs,1,120
+47,Nivea Foundation,Blue,Nivea,20.33,34.17,37.28,2.48,30.34,4,Cosmetic,Perfect gift for friends and family,1,35
+48,Apple Laptop,Black,Apple,43.4,41.26,4.64,1.3,987.15,5,Electronics,High quality product for daily use,1,428
+49,IKEA Bookshelf,Black,IKEA,25.98,44.31,34.74,1.46,645.86,1,Furniture,Stylish and affordable,1,470
+50,Whirlpool Microwave Oven,Red,Whirlpool,1.26,36.7,47.19,1.74,695.37,5,Appliances,Advanced technology integration,1,54
+51,Trader Joe's Organic Avocado,Black,Trader Joe's,0.04,31.69,42.66,1.69,6.03,4,Grocery,Designed for maximum comfort,1,170
+52,Spring Onion,Green,Sainsbury,1.23,2.31,2.39,1.23,5.00,1,Grocery,Spring Onions Bunch,1,10
+53,Bosch Engine Oil,White,Bosch,41.78,7.77,12.82,4.19,470.22,1,Automotive,Perfect gift for friends and family,1,340
+54,Fisher-Price Puzzle,Black,Fisher-Price,21.6,49.12,20.26,3.5,42.32,3,Toys,Essential for modern lifestyle,1,219
+55,Adidas Yoga Mat,Red,Adidas,42.15,40.14,48.89,1.13,56.65,2,Sports,Perfect for outdoor activities,1,460
+56,Steelcase Desk Chair,Blue,Steelcase,1.87,4.97,43.67,3.08,92.46,1,Furniture,Advanced technology integration,1,164
+57,Maybelline Lip Balm,Black,Maybelline,31.54,42.48,30.18,3.32,74.4,4,Cosmetic,Designed for maximum comfort,1,162
+58,Trader Joe's Almond Milk,Blue,Trader Joe's,22.88,18.29,39.37,2.66,7.07,3,Grocery,Compact and lightweight design,1,116
+59,Lenovo Smartwatch,Gray,Lenovo,43.47,44.56,29.31,2.05,195.83,4,Electronics,Eco-friendly and durable,1,198
+60,KitchenAid Refrigerator,White,KitchenAid,46.81,10.75,21.57,2.71,50.76,1,Appliances,High speed and efficiency,1,355
+61,Nike Yoga Mat,Green,Nike,32.03,6.08,10.5,3.11,941.74,2,Sports,Perfect gift for friends and family,1,319
+62,Steelcase Standing Desk,Blue,Steelcase,18.76,31.45,11.93,4.82,79.35,5,Furniture,Ideal for home and office use,1,346
+63,Goodyear Car Battery,Red,Goodyear,38.14,42.49,45.45,1.44,41.04,4,Automotive,Stylish and affordable,1,309
+64,HP Headphones,Red,HP,40.1,13.19,16.86,0.42,190.17,3,Electronics,Stylish and affordable,1,280
+65,Estée Lauder Facial Cleanser,Red,Estée Lauder,12.28,27.17,15.96,0.36,156.97,1,Cosmetic,Essential for modern lifestyle,1,452
+66,Adidas Exercise Bike,Blue,Adidas,49.94,45.85,46.94,4.51,484.46,3,Sports,Compact and lightweight design,1,499
+67,IKEA Desk Chair,Green,IKEA,24.06,32.47,21.66,3.44,591.33,4,Furniture,Provides excellent comfort and support,1,192
+68,Clinique Facial Cleanser,Silver,Clinique,5.84,48.77,35.0,1.24,36.58,5,Cosmetic,Stylish and affordable,1,418
+69,Mattel Building Blocks,Black,Mattel,36.36,45.58,21.21,3.42,68.48,3,Toys,Ideal for home and office use,1,140
+70,HarperCollins Biography,Green,HarperCollins,47.28,33.35,32.51,3.42,38.09,2,Books,Advanced technology integration,1,223
+71,Mattel Dollhouse,Green,Mattel,20.14,5.67,28.19,2.3,745.95,2,Toys,Perfect for outdoor activities,1,491
+72,Kroger Almond Milk,Black,Kroger,27.44,0.67,21.41,2.3,11.2,5,Grocery,High quality product for daily use,1,498
+73,L'Oréal Lip Balm,Black,L'Oréal,17.71,9.19,49.88,4.06,33.43,2,Cosmetic,Energy-efficient and silent,1,420
+74,Clinique Sunscreen SPF 50,Red,Clinique,23.8,25.55,47.83,3.58,23.77,3,Cosmetic,Energy-efficient and silent,1,327
+75,Reebok Exercise Bike,Pink,Reebok,32.35,1.35,31.21,4.58,695.98,5,Sports,Stylish and affordable,1,191
+76,The North Face Sleeping Bag,Blue,The North Face,20.74,20.24,14.94,2.32,105.81,3,Outdoor,Easy to clean and maintain,1,176
+77,HarperCollins Mystery Novel,Green,HarperCollins,0.97,11.49,28.82,2.87,23.1,5,Books,High quality product for daily use,1,79
+78,Lego Action Figure,Silver,Lego,21.74,2.35,13.09,2.91,486.38,5,Toys,High speed and efficiency,1,115
+79,Herman Miller Dining Table,Pink,Herman Miller,23.75,9.9,3.24,2.62,546.17,5,Furniture,Made from premium materials,1,61
+80,The North Face Hiking Backpack,White,The North Face,27.87,14.08,26.99,2.64,355.47,1,Outdoor,Best in class performance,1,392
+81,Whole Foods Whole Grain Bread,Black,Whole Foods,8.64,0.12,40.45,4.51,8.33,5,Grocery,Long-lasting battery life,1,114
+82,KitchenAid Electric Kettle,Silver,KitchenAid,47.6,8.2,22.18,1.8,57.56,2,Appliances,High quality product for daily use,1,465
+83,Columbia Cycling Helmet,White,Columbia,42.99,41.65,37.3,3.62,140.09,2,Outdoor,Advanced technology integration,1,83
+84,Simon & Schuster Biography,Blue,Simon & Schuster,29.92,5.6,15.61,2.54,20.5,3,Books,Made from premium materials,1,141
+85,Columbia Camping Stove,White,Columbia,10.09,30.55,10.86,1.95,110.14,3,Outdoor,Easy to clean and maintain,1,483
+86,Adidas Treadmill,Black,Adidas,27.59,42.84,40.83,3.82,89.15,1,Sports,Advanced technology integration,1,305
+87,Samsung Smartwatch,Black,Samsung,3.11,19.72,45.45,3.59,604.35,1,Electronics,Compact and lightweight design,1,452
+88,KitchenAid Blender,Green,KitchenAid,29.57,38.87,26.72,1.52,269.27,2,Appliances,Includes warranty and customer support,1,85
+89,Nivea lipstick,Black,Nivea,20.43,39.48,26.86,0.22,33.06,4,Cosmetic,Provides excellent comfort and support,1,66
+90,La-Z-Boy Bookshelf,White,La-Z-Boy,0.9,21.09,22.38,2.3,249.22,5,Furniture,High quality product for daily use,1,439
+91,La-Z-Boy Desk Chair,Green,La-Z-Boy,35.57,30.69,10.49,0.75,957.65,1,Furniture,Eco-friendly and durable,1,217
+92,Bridgestone Car Battery,Red,Bridgestone,32.36,33.73,1.16,2.96,804.62,4,Automotive,Includes warranty and customer support,1,456
+93,Whole Foods Organic Avocado,Gray,Whole Foods,35.27,33.11,38.63,2.29,8.07,1,Grocery,Provides excellent comfort and support,1,183
+94,L'Oréal Sunscreen SPF 50,Gray,L'Oréal,1.42,27.28,42.6,4.13,39.14,2,Cosmetic,Water-resistant and reliable,1,31
+95,Herman Miller Desk Chair,White,Herman Miller,8.37,26.44,1.91,3.74,559.72,3,Furniture,Designed for maximum comfort,1,35
+96,L'Oréal Foundation,Pink,L'Oréal,12.56,47.32,43.28,3.65,15.07,3,Cosmetic,Perfect gift for friends and family,1,191
+97,Penguin Random House Mystery Novel,Pink,Penguin Random House,32.75,3.24,46.18,1.27,67.61,4,Books,Ideal for home and office use,1,192
+98,GE Appliances Microwave Oven,Pink,GE Appliances,43.59,29.84,25.05,3.8,186.17,5,Appliances,Ideal for home and office use,1,77
+99,Simon & Schuster Mystery Novel,Gray,Simon & Schuster,14.58,8.48,44.43,1.05,17.25,1,Books,Compact and lightweight design,1,52
+100,Fisher-Price Dollhouse,Gray,Fisher-Price,40.01,36.24,29.45,4.9,62.83,4,Toys,Advanced technology integration,1,166

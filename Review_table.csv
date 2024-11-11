@@ -1,0 +1,51 @@
+Review_number,Review_date,Text,Ranking,Product_name,Email,Product_number
+1,2024-06-25,"Great quality, very satisfied with the purchase.",5,Black Diamond Camping Stove,harveybrooke@example.com,21
+2,2024-11-04,"Item was as described, highly recommended.",4,Apple Laptop,cassandrawilliams@example.org,48
+3,2024-12-19,"Product quality is decent, but delivery was delayed.",3,Simon & Schuster Children's Book,chelsealopez@example.com,19
+4,2025-03-24,"Exceeded my expectations, will buy again.",5,Clinique Sunscreen SPF 50,kelly61@example.org,74
+5,2025-03-30,"Not as good as expected, but still okay.",3,Lego Action Figure,kennethwilson@example.net,78
+6,2024-09-12,Affordable price and decent quality.,4,The North Face Tent,fjimenez@example.com,34
+7,2024-07-20,"Very disappointed, item not as described.",2,Penguin Random House Science Fiction,hernandezemily@example.com,37
+8,2024-12-24,"Packaging was damaged, but product is fine.",3,Whole Foods Almond Milk,lindsay18@example.net,45
+9,2024-04-03,Fast shipping and excellent product quality.,5,HarperCollins Biography,jperez@example.org,70
+10,2024-06-08,"Item is okay, but color was slightly off.",3,Bosch Microwave Oven,hannahbradford@example.net,26
+11,2025-03-20,Arrived on time and works perfectly.,5,HarperCollins Biography,burnsjeremiah@example.com,70
+12,2024-02-27,"Not worth the price, very unsatisfied.",1,Adidas Yoga Mat,ashleyfrank@example.org,55
+13,2024-12-11,Impressed by the quality for this price.,4,Reebok Exercise Bike,maria45@example.org,75
+14,2024-08-09,"Product is as expected, would recommend.",4,Clinique Facial Cleanser,wrightpatricia@example.net,68
+15,2024-09-17,Color was different than shown in the picture.,2,HarperCollins Mystery Novel,zprice@example.com,77
+16,2024-08-10,"Decent quality, but arrived a bit late.",3,Nike Dumbbells,morabruce@example.net,40
+17,2024-11-21,Fast delivery and great product.,5,Herman Miller Desk Chair,ghernandez@example.net,95
+18,2024-08-18,"Material feels cheap, but serves its purpose.",3,Michelin Engine Oil,jillian46@example.org,22
+19,2024-10-31,Love it! Just what I was looking for.,5,Steelcase Standing Desk,dyerbrittany@example.com,62
+20,2024-10-07,"Good product, but could be priced better.",4,Herman Miller Desk Chair,marissa49@example.org,95
+21,2024-05-20,Arrived quickly and as described.,5,Columbia Camping Stove,wellsantonio@example.com,85
+22,2024-11-04,"Very poor quality, not satisfied.",1,Trader Joe's Almond Milk,isalazar@example.com,58
+23,2025-01-22,"Packaging was good, item works well.",4,The North Face Hiking Backpack,elizabethpacheco@example.net,80
+24,2025-01-03,"Looks nice, but durability is questionable.",3,Reebok Exercise Bike,vrichardson@example.com,75
+25,2024-11-19,"Definitely worth the money, highly recommend.",5,Michelin Engine Oil,smiththomas@example.net,22
+26,2024-07-24,"Not bad, but delivery took too long.",3,Macmillan Cookbook,ycarpenter@example.com,3
+27,2024-08-15,Really enjoying this product so far.,4,KitchenAid Refrigerator,cwhite@example.org,60
+28,2024-09-17,"Product does its job, no complaints.",4,Classic Round Tomato,loretta80@example.com,30
+29,2025-04-07,Expected better quality for this price.,2,HP Tablet,shirleywhite@example.net,44
+30,2024-10-19,"Very satisfied, exactly what I needed.",5,HarperCollins Biography,smithjulie@example.net,70
+31,2024-06-14,"Product matches the description, happy with it.",4,Nerf Action Figure,wellslauren@example.com,43
+32,2024-07-28,"Quality could be better, but acceptable.",3,Continental Car Battery,elizabeth49@example.org,10
+33,2024-10-17,"Good value for money, would buy again.",4,Publix Banana,galvanchelsea@example.org,36
+34,2024-08-14,"Not as durable as expected, disappointed.",2,KitchenAid Electric Kettle,uwatkins@example.com,82
+35,2025-04-17,Fast shipping and excellent customer service.,5,Whole Foods Almond Milk,hortonbrittany@example.org,45
+36,2025-02-24,"Average quality, but works well enough.",3,IKEA Bookshelf,cmcdowell@example.org,49
+37,2024-10-04,"Poorly made, wouldn't recommend.",1,Fisher-Price Puzzle,isalazar@example.com,54
+38,2024-06-21,Solid quality and great design.,5,Columbia Camping Stove,cwhite@example.org,85
+39,2024-05-14,"Product was damaged upon arrival, not happy.",2,Columbia Camping Stove,cmcdowell@example.org,85
+40,2024-05-01,"Good, but not great, quality could improve.",3,The North Face Hiking Backpack,dcooper@example.com,80
+41,2024-10-24,"Very happy with my purchase, highly recommend.",5,Columbia Camping Stove,wellsantonio@example.com,85
+42,2024-10-09,"Wouldn’t buy again, quality is lacking.",2,Safeway Banana,dyerbrittany@example.com,29
+43,2024-07-21,Surprisingly good for the price.,4,Apple Bluetooth Speaker,estradalori@example.com,11
+44,2024-09-11,"It's okay, but I've seen better.",3,Fisher-Price Dollhouse,jesseanderson@example.com,100
+45,2024-05-11,"Excellent product, exceeded expectations.",5,Trader Joe's Almond Milk,cmcdowell@example.org,58
+46,2024-12-01,"Did not like it at all, very poor quality.",1,KitchenAid Microwave Oven,jwaller@example.com,12
+47,2024-08-10,"Good product, but overpriced.",3,Steelcase Standing Desk,christopher46@example.net,62
+48,2024-07-13,"Love it, will recommend to others.",5,Columbia Hiking Backpack,nbailey@example.net,14
+49,2024-09-19,"Packaging was good, quality is acceptable.",4,Black Diamond Camping Stove,dhatfield@example.net,21
+50,2024-01-08,"Love it, will recommend to others.",5,Columbia Hiking Backpack,moranchristopher@example.net,14
